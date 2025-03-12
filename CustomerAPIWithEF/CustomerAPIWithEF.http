@@ -1,0 +1,6 @@
+@CustomerAPIWithEF_HostAddress = http://localhost:5291
+
+GET {{CustomerAPIWithEF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

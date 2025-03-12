@@ -1,0 +1,14 @@
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\Task13thFeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\Task13thFeb.AssemblyInfoInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\Task13thFeb.AssemblyInfo.cs
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\Task13thFeb.csproj.CoreCompileInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\bin\Debug\net9.0\Task13thFeb.exe
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\bin\Debug\net9.0\Task13thFeb.deps.json
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\bin\Debug\net9.0\Task13thFeb.runtimeconfig.json
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\bin\Debug\net9.0\Task13thFeb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\bin\Debug\net9.0\Task13thFeb.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\Task13thFeb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\refint\Task13thFeb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\Task13thFeb.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\Task13thFeb.genruntimeconfig.cache
+C:\Users\window11\OneDrive\Desktop\.Net\Task13thFeb\obj\Debug\net9.0\ref\Task13thFeb.dll

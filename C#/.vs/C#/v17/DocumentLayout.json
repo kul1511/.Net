@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63A0B644-4B55-4E1E-9866-D359F06BE959}|OOPs\\OOPs.csproj|c:\\users\\window11\\onedrive\\desktop\\.net\\c#\\oops\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A0B644-4B55-4E1E-9866-D359F06BE959}|OOPs\\OOPs.csproj|solutionrelative:oops\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|c:\\users\\window11\\onedrive\\desktop\\.net\\c#\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|solutionrelative:practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|c:\\users\\window11\\onedrive\\desktop\\.net\\c#\\practise\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|solutionrelative:practise\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|c:\\users\\window11\\onedrive\\desktop\\.net\\c#\\practise\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|solutionrelative:practise\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|c:\\users\\window11\\onedrive\\desktop\\.net\\c#\\practise\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|solutionrelative:practise\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|c:\\users\\window11\\onedrive\\desktop\\.net\\c#\\practise\\addtwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|solutionrelative:practise\\addtwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|c:\\users\\window11\\onedrive\\desktop\\.net\\c#\\practise\\primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C8F86-3705-4760-B5DF-B601B911D758}|Practise\\Practise.csproj|solutionrelative:practise\\primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\OOPs\\Main.cs",
+              "RelativeDocumentMoniker": "OOPs\\Main.cs",
+              "ToolTip": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\OOPs\\Main.cs",
+              "RelativeToolTip": "OOPs\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:19:23.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractClass.cs",
+              "DocumentMoniker": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\AbstractClass.cs",
+              "RelativeDocumentMoniker": "Practise\\AbstractClass.cs",
+              "ToolTip": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\AbstractClass.cs",
+              "RelativeToolTip": "Practise\\AbstractClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:06:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\Car.cs",
+              "RelativeDocumentMoniker": "Practise\\Car.cs",
+              "ToolTip": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\Car.cs",
+              "RelativeToolTip": "Practise\\Car.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:32:01.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Practise\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\Fibonacci.cs",
+              "RelativeToolTip": "Practise\\Fibonacci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:27:46.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrimeNumber.cs",
+              "DocumentMoniker": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\PrimeNumber.cs",
+              "RelativeDocumentMoniker": "Practise\\PrimeNumber.cs",
+              "ToolTip": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\PrimeNumber.cs",
+              "RelativeToolTip": "Practise\\PrimeNumber.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:57:33.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTwoNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\AddTwoNumbers.cs",
+              "RelativeDocumentMoniker": "Practise\\AddTwoNumbers.cs",
+              "ToolTip": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\AddTwoNumbers.cs",
+              "RelativeToolTip": "Practise\\AddTwoNumbers.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:28:06.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\Program.cs",
+              "RelativeDocumentMoniker": "Practise\\Program.cs",
+              "ToolTip": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\Program.cs",
+              "RelativeToolTip": "Practise\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:01:51.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

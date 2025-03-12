@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "wvsovDE3Ho4=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\window11\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.0-preview.1.25081.1\\microsoft.entityframeworkcore.sqlserver.10.0.0-preview.1.25081.1.nupkg.sha512",
+    "C:\\Users\\window11\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\window11\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\window11\\.nuget\\packages\\swashbuckle.aspnetcore\\7.3.1\\swashbuckle.aspnetcore.7.3.1.nupkg.sha512",
+    "C:\\Users\\window11\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.3.1\\swashbuckle.aspnetcore.swagger.7.3.1.nupkg.sha512",
+    "C:\\Users\\window11\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.3.1\\swashbuckle.aspnetcore.swaggergen.7.3.1.nupkg.sha512",
+    "C:\\Users\\window11\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.3.1\\swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 10.0.0-preview.1.25081.1 is not compatible with net9.0 (.NETCoreApp,Version=v9.0). Package Microsoft.EntityFrameworkCore.SqlServer 10.0.0-preview.1.25081.1 supports: net10.0 (.NETCoreApp,Version=v10.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

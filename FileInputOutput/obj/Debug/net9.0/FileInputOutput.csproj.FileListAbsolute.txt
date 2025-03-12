@@ -1,0 +1,14 @@
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\bin\Debug\net9.0\FileInputOutput.exe
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\bin\Debug\net9.0\FileInputOutput.deps.json
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\bin\Debug\net9.0\FileInputOutput.runtimeconfig.json
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\bin\Debug\net9.0\FileInputOutput.dll
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\bin\Debug\net9.0\FileInputOutput.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\FileInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\FileInputOutput.AssemblyInfoInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\FileInputOutput.AssemblyInfo.cs
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\FileInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\FileInputOutput.dll
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\refint\FileInputOutput.dll
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\FileInputOutput.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\FileInputOutput.genruntimeconfig.cache
+C:\Users\window11\OneDrive\Desktop\.Net\FileInputOutput\obj\Debug\net9.0\ref\FileInputOutput.dll

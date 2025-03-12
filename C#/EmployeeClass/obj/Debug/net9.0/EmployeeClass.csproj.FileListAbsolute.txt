@@ -1,0 +1,14 @@
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\EmployeeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\EmployeeClass.AssemblyInfoInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\EmployeeClass.AssemblyInfo.cs
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\EmployeeClass.csproj.CoreCompileInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\bin\Debug\net9.0\EmployeeClass.exe
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\bin\Debug\net9.0\EmployeeClass.deps.json
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\bin\Debug\net9.0\EmployeeClass.runtimeconfig.json
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\bin\Debug\net9.0\EmployeeClass.dll
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\bin\Debug\net9.0\EmployeeClass.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\EmployeeClass.dll
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\refint\EmployeeClass.dll
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\EmployeeClass.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\EmployeeClass.genruntimeconfig.cache
+C:\Users\window11\OneDrive\Desktop\.Net\C#\EmployeeClass\obj\Debug\net9.0\ref\EmployeeClass.dll

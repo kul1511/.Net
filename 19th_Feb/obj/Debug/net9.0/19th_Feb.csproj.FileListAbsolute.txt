@@ -1,0 +1,14 @@
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\19th_Feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\19th_Feb.AssemblyInfoInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\19th_Feb.AssemblyInfo.cs
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\19th_Feb.csproj.CoreCompileInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\bin\Debug\net9.0\19th_Feb.exe
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\bin\Debug\net9.0\19th_Feb.deps.json
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\bin\Debug\net9.0\19th_Feb.runtimeconfig.json
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\bin\Debug\net9.0\19th_Feb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\bin\Debug\net9.0\19th_Feb.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\19th_Feb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\refint\19th_Feb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\19th_Feb.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\19th_Feb.genruntimeconfig.cache
+C:\Users\window11\OneDrive\Desktop\.Net\19th_Feb\obj\Debug\net9.0\ref\19th_Feb.dll

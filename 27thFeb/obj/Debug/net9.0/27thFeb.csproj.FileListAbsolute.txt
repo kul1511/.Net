@@ -1,0 +1,14 @@
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\27thFeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\27thFeb.AssemblyInfoInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\27thFeb.AssemblyInfo.cs
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\27thFeb.csproj.CoreCompileInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\bin\Debug\net9.0\27thFeb.exe
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\bin\Debug\net9.0\27thFeb.deps.json
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\bin\Debug\net9.0\27thFeb.runtimeconfig.json
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\bin\Debug\net9.0\27thFeb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\bin\Debug\net9.0\27thFeb.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\27thFeb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\refint\27thFeb.dll
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\27thFeb.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\27thFeb.genruntimeconfig.cache
+C:\Users\window11\OneDrive\Desktop\.Net\27thFeb\obj\Debug\net9.0\ref\27thFeb.dll

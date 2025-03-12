@@ -1,0 +1,14 @@
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\SalaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\SalaryCalculation.AssemblyInfoInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\SalaryCalculation.AssemblyInfo.cs
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\SalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\bin\Debug\net9.0\SalaryCalculation.exe
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\bin\Debug\net9.0\SalaryCalculation.deps.json
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\bin\Debug\net9.0\SalaryCalculation.runtimeconfig.json
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\bin\Debug\net9.0\SalaryCalculation.dll
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\bin\Debug\net9.0\SalaryCalculation.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\SalaryCalculation.dll
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\refint\SalaryCalculation.dll
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\SalaryCalculation.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\SalaryCalculation.genruntimeconfig.cache
+C:\Users\window11\OneDrive\Desktop\.Net\SalaryCalculation\obj\Debug\net9.0\ref\SalaryCalculation.dll

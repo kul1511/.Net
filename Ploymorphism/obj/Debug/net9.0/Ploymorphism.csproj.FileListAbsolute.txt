@@ -1,0 +1,14 @@
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\Ploymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\Ploymorphism.AssemblyInfoInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\Ploymorphism.AssemblyInfo.cs
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\Ploymorphism.csproj.CoreCompileInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\bin\Debug\net9.0\Ploymorphism.exe
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\bin\Debug\net9.0\Ploymorphism.deps.json
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\bin\Debug\net9.0\Ploymorphism.runtimeconfig.json
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\bin\Debug\net9.0\Ploymorphism.dll
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\bin\Debug\net9.0\Ploymorphism.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\Ploymorphism.dll
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\refint\Ploymorphism.dll
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\Ploymorphism.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\Ploymorphism.genruntimeconfig.cache
+C:\Users\window11\OneDrive\Desktop\.Net\Ploymorphism\obj\Debug\net9.0\ref\Ploymorphism.dll
