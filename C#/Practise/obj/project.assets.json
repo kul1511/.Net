@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\Practise.csproj",
+      "projectUniqueName": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\.Net\\C#\\Practise\\Practise.csproj",
       "projectName": "Practise",
-      "projectPath": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\Practise.csproj",
+      "projectPath": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\.Net\\C#\\Practise\\Practise.csproj",
       "packagesPath": "C:\\Users\\window11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\C#\\Practise\\obj\\",
+      "outputPath": "C:\\Users\\window11\\OneDrive\\Desktop\\.Net\\.Net\\C#\\Practise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,4 @@
 using Microsoft.OpenApi.Models;
-// using CustomerAPI.Interface;
-// using CustomerAPI.Repositories;
 using Microsoft.EntityFrameworkCore;
 using CustomerAPIWithEF.Models;
 
