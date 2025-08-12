@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WkQebwYCqEXJrRakkaEY/3wzhIRFSD6yPw3DS51qdIo=",
+  "Source": "TestingAuth",
+  "BasePath": "_content/TestingAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

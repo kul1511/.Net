@@ -1,0 +1,15 @@
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\Litware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\Litware.AssemblyInfoInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\Litware.AssemblyInfo.cs
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\Litware.csproj.CoreCompileInputs.cache
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\Litware.sourcelink.json
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\bin\Debug\net9.0\Litware.exe
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\bin\Debug\net9.0\Litware.deps.json
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\bin\Debug\net9.0\Litware.runtimeconfig.json
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\bin\Debug\net9.0\Litware.dll
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\bin\Debug\net9.0\Litware.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\Litware.dll
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\refint\Litware.dll
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\Litware.pdb
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\Litware.genruntimeconfig.cache
+C:\Users\window11\OneDrive\Desktop\.Net\.Net\Litware\obj\Debug\net9.0\ref\Litware.dll
