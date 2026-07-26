@@ -1,0 +1,48 @@
+2026-02-26 10:34:21,135 [20] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 10:34:23,613 [20] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 10:34:23,765 [20] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 12:26:09,310 [47] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 12:26:11,146 [47] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 12:26:11,311 [47] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 12:28:07,567 [11] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 12:28:07,610 [11] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 12:28:07,710 [11] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 12:36:10,339 [28] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 12:36:10,510 [28] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 12:36:10,602 [28] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 12:40:39,078 [48] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 12:40:39,085 [48] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 12:40:39,179 [48] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 12:40:58,865 [48] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 12:40:58,870 [48] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 12:40:58,964 [48] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 12:48:59,770 [64] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 12:48:59,870 [64] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 12:48:59,959 [64] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 12:52:11,153 [57] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 12:52:11,159 [57] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 12:52:11,255 [57] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 12:58:13,721 [33] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 12:58:13,824 [33] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 12:58:13,925 [33] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 14:35:23,911 [74] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 14:35:24,039 [74] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 14:35:24,137 [74] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 14:46:41,604 [28] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-26 14:46:41,725 [28] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-26 14:46:41,837 [28] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-26 15:18:05,850 [27] INFO  CROPDEAL.Repository.RegisterRepository - Registration attempt for User: Test
+2026-02-26 15:18:06,424 [27] INFO  CROPDEAL.Repository.RegisterRepository - Successfull Registration for User: Test with Id: fcb3004b-6f61-4537-b479-519b70c6f787
+2026-02-26 15:18:06,424 [27] INFO  CROPDEAL.Controllers.RegistrationController - User Registered Successfully with Email: Test@gmail.com and Role: Farmer
+2026-02-26 15:19:42,219 [25] INFO  CROPDEAL.Repository.RegisterRepository - Registration attempt for User: Test
+2026-02-26 15:19:42,233 [25] WARN  CROPDEAL.Repository.RegisterRepository - User Already Exists for User: Test and Email: Test@gmail.com, UserId: f337d8ac-449c-41ad-a35e-ae6c53bfb86c
+2026-02-26 15:19:42,233 [25] WARN  CROPDEAL.Controllers.RegistrationController - User registration failed for Email: Test@gmail.com
+2026-02-26 15:21:42,375 [16] INFO  CROPDEAL.Repository.RegisterRepository - Registration attempt for User: test1
+2026-02-26 15:21:42,513 [16] INFO  CROPDEAL.Repository.RegisterRepository - Successfull Registration for User: test1 with Id: 154c62a4-bfab-45f6-8dc9-205a88b7dc2b
+2026-02-26 15:21:42,513 [16] INFO  CROPDEAL.Controllers.RegistrationController - User Registered Successfully with Email: test12@gmail.com and Role: Farmer
+2026-02-26 15:23:34,161 [39] INFO  CROPDEAL.Repository.RegisterRepository - Registration attempt for User: asoidoi
+2026-02-26 15:23:34,276 [39] INFO  CROPDEAL.Repository.RegisterRepository - Successfull Registration for User: asoidoi with Id: 907d76f3-c8e9-4364-a2a5-a0f9445ff6f2
+2026-02-26 15:23:34,276 [39] INFO  CROPDEAL.Controllers.RegistrationController - User Registered Successfully with Email: oi@gmail.com and Role: Farmer
+2026-02-26 15:25:57,519 [13] INFO  CROPDEAL.Repository.RegisterRepository - Registration attempt for User: asoidoi
+2026-02-26 15:25:57,525 [13] WARN  CROPDEAL.Repository.RegisterRepository - User Already Exists for User: asoidoi and Email: oi@gmail.com, UserId: a1fad37a-d3bb-432f-8860-aa81070637b7
+2026-02-26 15:25:57,525 [13] WARN  CROPDEAL.Controllers.RegistrationController - User registration failed for Email: oi@gmail.com

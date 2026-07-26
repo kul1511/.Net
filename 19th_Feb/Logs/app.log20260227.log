@@ -1,0 +1,6 @@
+2026-02-27 11:16:50,587 [12] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-27 11:16:52,264 [12] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-27 11:16:52,395 [12] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-02-27 11:16:57,203 [12] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-02-27 11:16:57,247 [12] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-02-27 11:16:57,347 [12] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com

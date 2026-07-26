@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CROPDEAL</name>
+    </assembly>
+    <members>
+        <member name="M:CROPDEAL.Controllers.RegistrationController.Register(System.String,System.String,System.String,CROPDEAL.Models.UserRole)">
+            <remarks>
+             (Note: For Role, Select 0: Farmer, 1: Dealer, 2: Admin)
+            </remarks>
+        </member>
+        <member name="M:CROPDEAL.Controllers.RegistrationController.Login(System.String,System.String,CROPDEAL.Models.UserRole,CROPDEAL.Services.TokenService)">
+            <remarks>
+             (Note: For Role, Select 0: Farmer, 1: Dealer, 2: Admin)
+            </remarks>
+        </member>
+        <member name="T:CROPDEAL.Migrations.SubcriptionModelUpdate">
+            <inheritdoc />
+        </member>
+        <member name="M:CROPDEAL.Migrations.SubcriptionModelUpdate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CROPDEAL.Migrations.SubcriptionModelUpdate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CROPDEAL.Migrations.SubcriptionModelUpdate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

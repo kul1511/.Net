@@ -1,0 +1,39 @@
+2026-03-02 11:13:45,393 [13] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 11:13:47,414 [13] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 11:13:47,566 [13] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 11:32:53,562 [41] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 11:32:54,437 [41] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 11:32:54,533 [41] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 11:36:51,216 [47] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 11:36:51,299 [47] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 11:36:51,386 [47] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 12:50:46,605 [49] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 12:50:46,720 [50] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 12:50:46,806 [50] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 12:51:12,176 [44] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 12:51:12,183 [51] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 12:51:12,296 [51] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 16:14:30,835 [130] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 16:14:31,729 [130] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 16:14:32,116 [130] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 16:14:32,117 [129] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 16:14:32,238 [129] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 16:14:32,239 [130] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 16:44:15,178 [68] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 16:44:15,260 [68] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 16:44:15,343 [68] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 16:44:27,874 [68] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 16:44:27,880 [68] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 16:44:27,972 [68] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 17:02:22,275 [56] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 17:02:22,359 [56] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 17:02:22,444 [56] INFO  CROPDEAL.Controllers.RegistrationController - Password Verification Failed
+2026-03-02 17:02:30,157 [56] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: Admin@gmail.com with Role: Admin
+2026-03-02 17:02:30,160 [56] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: Admin@gmail.com
+2026-03-02 17:02:30,264 [56] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: Admin@gmail.com
+2026-03-02 17:07:21,038 [78] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: kuldeep@gmail.com with Role: Farmer
+2026-03-02 17:07:21,122 [78] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: kuldeep@gmail.com
+2026-03-02 17:07:21,207 [78] ERROR CROPDEAL.Controllers.RegistrationController - Role mismatch: Tried logging in with Farmer, but registered with Admin
+2026-03-02 17:07:27,238 [80] INFO  CROPDEAL.Controllers.RegistrationController - Login Attempt for Email: kuldeep@gmail.com with Role: Admin
+2026-03-02 17:07:27,241 [81] INFO  CROPDEAL.Repository.RegisterRepository - Retrieved user for email: kuldeep@gmail.com
+2026-03-02 17:07:27,339 [81] INFO  CROPDEAL.Controllers.RegistrationController - Token generated for Email: kuldeep@gmail.com
