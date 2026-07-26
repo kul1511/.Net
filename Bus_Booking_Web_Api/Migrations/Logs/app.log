@@ -1,0 +1,2 @@
+2025-09-30 11:49:23,117 [12] INFO  CROPDEAL.Controllers.RegistrationController - User Registered Successfully with Email: raj1@gmail.com and Role: Farmer
+2025-09-30 11:51:00,657 [3] INFO  CROPDEAL.Controllers.RegistrationController - User Registered Successfully with Email: rohitraj@gmail.com and Role: Admin
